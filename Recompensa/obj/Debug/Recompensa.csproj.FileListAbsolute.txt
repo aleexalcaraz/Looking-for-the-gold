@@ -1,0 +1,9 @@
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\bin\Debug\Recompensa.exe.config
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\bin\Debug\Recompensa.exe
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\bin\Debug\Recompensa.pdb
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\obj\Debug\Recompensa.csprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\obj\Debug\Recompensa.Form1.resources
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\obj\Debug\Recompensa.Properties.Resources.resources
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\obj\Debug\Recompensa.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\obj\Debug\Recompensa.exe
+C:\Users\Alejandro\Google Drive\8vo Semestre\Algoritmos\Recompensa\Recompensa\obj\Debug\Recompensa.pdb
